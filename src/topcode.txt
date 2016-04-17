@@ -1,0 +1,103 @@
+<HTML>
+<HEAD>
+<TITLE>TI83+ Project Development Page</TITLE>
+<LINK REL="stylesheet" HREF="1.css" TYPE="text/css">
+<style type="text/css">
+<!-- 
+A.2:link{COLOR:#FFFFFF;TEXT-DECORATION:none;} 
+A.2:visited{COLOR:#FFFFFF;TEXT-DECORATION: none;} 
+A.2:active{COLOR:#FFFFFF} 
+A.2:hover{COLOR:#000000;TEXT-DECORATION:none;} 
+-->
+</style>
+</HEAD>
+<BODY BGCOLOR="#6699CC">
+<CENTER>
+<TABLE WIDTH="100%" HEIGHT="500" BORDER="0" CELLSPACING="1" CELLPADDING="0">
+<TR>
+<TD BGCOLOR="#000000">
+<TABLE WIDTH="100%" HEIGHT="100%" BORDER="0" CELLSPACING="1" CELLPADDING="0">
+<TR> 
+<TD BGCOLOR="#99CCFF" HEIGHT="150">
+<CENTER>
+<FONT FACE="verdana" COLOR="#FFFFFF">
+<br>&nbsp<br>
+<img src="topic.gif" alt="TI83+ Project Development Site" height="60%" width="80%">
+</FONT>
+</CENTER>
+<p>
+</P>
+</TD>
+</TR>
+<TR>
+<TD BGCOLOR="#99CCFF" VALIGN="top" WIDTH="100%">
+<CENTER>
+<TABLE BORDER="0" WIDTH="100%" HEIGHT="15" CELLSPACING="1" CELLPADDING="0">
+<TR> 
+<TD BGCOLOR="#000000" WIDTH="100%"> 
+<TABLE WIDTH="100%" HEIGHT="15" BORDER="0" CELLSPACING="1" CELLPADDING="0">
+<TR> 
+<TD BGCOLOR="#336699" WIDTH="100%" HEIGHT="15"> 
+<CENTER>
+<?php require("time.txt");?>
+</B></FONT>
+</CENTER>
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<CENTER>
+<BR>
+<TABLE BORDER="0" CELLSPACING="25">
+<TR valign="top"> 
+<TD> 
+<!--Left Menu-->
+<TABLE BORDER="0" WIDTH="150" HEIGHT="250" CELLPADDING="1" CELLSPACING="1" BGCOLOR="#000000">
+<TR> 
+<TD BACKGROUND="tablebg.gif" HEIGHT="20"> 
+<CENTER>
+<font face="verdana" size="1" color="#FFFFFF"><b> 
+Menu
+</b></font> 
+</CENTER>
+</TD>
+</TR>
+<TR> 
+<TD VALIGN="top" BGCOLOR="#FFFFFF"> 
+<P>
+<div align="center"><font face="verdana" size="1">
+<?php require("leftlinx.txt");?>
+</font></div>
+</font>
+</div>
+<P>
+</TD>
+</TR>
+<TR> 
+<TD BACKGROUND="tablebg.gif" HEIGHT="20"> 
+<CENTER>
+<font face="verdana" size="1" color="#FFFFFF"><b> 
+Counter
+</b></font> 
+</CENTER>
+</TD>
+</TR>
+<TR> 
+<TD VALIGN="top" BGCOLOR="#FFFFFF" HEIGHT="30"> 
+<div align="center"> 
+<?php require("counter.txt");?>
+</TD>
+</TR>
+</TABLE>
+<!--End Left Menu-->
+</TD>
+<TD> 
+<!--Main Content-->
+<TABLE BORDER="0" WIDTH="500" HEIGHT="300" CELLPADDING="1" CELLSPACING="1" BGCOLOR="#000000">
+<TR> 
+<TD BACKGROUND="tablebg.gif" HEIGHT="20"> 
+<div align="center">
+<font face="verdana" size="1" color="#FFFFFF"><b>

@@ -1,0 +1,18 @@
+	<script language="JavaScript">
+date = new Date
+sec = date.getSeconds()
+min = date.getMinutes()
+hrs = date.getHours()
+day = date.getDate()
+mnt = date.getMonth()+1
+yrs = date.getFullYear()
+if(hrs>12) {
+hrs = hrs-12
+base = "PM"
+}
+else {
+base = "AM"
+}
+time = mnt + "/" + day + "/" + yrs + " " + hrs + ":" + min + ":" + sec + base
+document.write("<font face='verdana' color='white'>" + time + "</font>")
+	</script>

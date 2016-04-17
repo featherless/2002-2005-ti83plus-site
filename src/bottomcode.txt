@@ -1,0 +1,56 @@
+<p>
+</font>
+</td>
+</tr>
+</table>
+<P>
+</CENTER>
+</TD>
+</TR>
+</TABLE>
+<!--End Main Content-->
+</TD>
+<TD> 
+<!-- Right Menu-->
+<TABLE BORDER="0" WIDTH="150" HEIGHT="250" CELLPADDING="1" CELLSPACING="1" BGCOLOR="#000000">
+<TR> 
+<TD BACKGROUND="tablebg.gif" HEIGHT="20"> 
+<CENTER>
+<font face="verdana" size="1" color="#FFFFFF"><b> 
+Links
+</b></font> 
+</CENTER>
+</TD>
+</TR>
+<TR> 
+<TD VALIGN="top" BGCOLOR="#FFFFFF">
+<P>                       
+<div align="center"> 
+<font face="verdana" size="1" color="#000000">
+<?php require("rightlinx.txt");?>
+</font>
+</p>
+<p>&nbsp;</p>
+</div>
+</TD>
+</TR>
+</TABLE>
+<!--End Right Menu-->
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<P>
+</center>
+<center>
+<font color="#FFFFFF"> <b> <font size="1" face="verdana">
+<a href="http://www.designz4you.com" class="2">template by designz4you.com</a>
+</font></b> </font> 
+</center>
+</BODY>
+</HTML>

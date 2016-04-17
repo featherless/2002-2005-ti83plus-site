@@ -1,0 +1,6 @@
+<script language="JavaScript">
+function newWindow(readme) {
+readmeWindow = window.open(readme, "readmeWin", "width=500,height=500,scrollbars=yes,resizable=no,left=0,top=0")
+readmeWindow.focus()
+}
+</script>

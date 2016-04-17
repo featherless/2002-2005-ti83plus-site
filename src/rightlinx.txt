@@ -1,0 +1,15 @@
+<a href="Http://TheJeffFiles.com/" onMouseover="window.status='TheJeffFiles.com'; return true" onMouseout="window.status=''; return true">TheJeffFiles.com</a><br>
+<div align="center"><p>
+<a href="http://pub25.bravenet.com/chat/show.php?usernum=2098025572&cpv=1">
+<img src="http://images.bravenet.com/brpics/chatnow.gif" border="0" width="100" height="35" /></a>
+<a href="http://www.bravenet.com/">
+<img src="http://images.bravenet.com/brpics/chatbutt.gif" border="0" width="100" height="35" /></a>
+</div>
+<p>
+Having trouble unzipping any of my files?  Well, you probably don't have a version of WinZip.
+You can download that <a href="http://www.winzip.com/downauto.cgi?winzip81.exe">here</a>.
+But, if that's not the case, here's a couple things you need to be able to get these files:<br>
+Windows Operating system (particularly)<br>
+Internet Explorer(particularly)<br>
+TIGraphLink to download the files to your calc<br>
+Link cable to get it to your calc

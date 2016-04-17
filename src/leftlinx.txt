@@ -1,0 +1,16 @@
+<a href="/" onMouseover="window.status='Home Page'; return true" onMouseout="window.status=''; return true">Home</a><br>
+<a href="about.php" onMouseover="window.status='Credits for the site'; return true" onMouseout="window.status=''; return true">About Us</a><br>
+<a href="sshots.php" onMouseover="window.status='Screen Shots'; return true" onMouseout="window.status=''; return true">Screen Shots</a><br>
+<a href="prgmr.php" onMouseover="window.status='Programmer Info'; return true" onMouseout="window.status=''; return true">Programmer Info</a><br>
+<a href="text.txt" onMouseover="window.status='Basic Tutorial'; return true" onMouseout="window.status=''; return true">Basic Tutorial</a><br>
+<a href="tibasictips.php" onMouseover="window.status='TIBASIC tips'; return true" onMouseout="window.status=''; return true">TIBASIC tips</a><br>
+<a href="games.php" onMouseover="window.status='Game Archive'; return true" onMouseout="window.status=''; return true">Archive(Games)</a><br>
+<a href="programs.php" onMouseover="window.status='Program Archive'; return true" onMouseout="window.status=''; return true">Archive(Programs)</a><br>
+<a href="rft.php" onMouseover="window.status='Raging Flame Trilogy'; return true" onMouseout="window.status=''; return true">Raging Flame Trilogy</a><br>
+<a href="error.php" onMouseover="window.status='Submit Your Errors'; return true" onMouseout="window.status=''; return true">Submit Your Errors</a><br>
+<a href="articles.php" onMouseover="window.status='Articles'; return true" onMouseout="window.status=''; return true">Articles</a><br>
+<a href="poll.php" onMouseover="window.status='Polls'; return true" onMouseout="window.status=''; return true">Polls</a><br>
+<a href="guestbook.php" onMouseover="window.status='Sign the Guestbook for feedback'; return true" onMouseout="window.status=''; return true">Feedback</a><br>
+<p><a href="mailto:bloodright@msn.com" onMouseover="window.status='Mail Jeff'; return true" onMouseout="window.status=''; return true">bloodright@msn.com</a><p>
+<h3>Want to manage the TIPDS?</h3>
+<a href="index.php">Click here to see the news</a>
