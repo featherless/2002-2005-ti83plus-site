@@ -9,6 +9,21 @@ personal project storage ground.
 - Language: Originally written in ASP but eventually converted to PHP
 - Hosting: Originally on Brinkster, then moved to the custom domain TheJeffFiles.com
 
+# Viewing the site
+
+The site is written in PHP. Thankfully PHP 5.4.0 introduced a simple built-in php server. Simply
+run the following to preview the site:
+
+	git clone https://github.com/featherless/ti83plus-site.git
+	cd ti83plus-site/src
+	php -S localhost:8000
+
+# Screenshots
+
+![Screenshot](photos/screenshot1.png)
+
+![Screenshot](photos/screenshot2.png)
+
 # Blog entries
 
 ## Updates for: Friday, January 28, 2005
@@ -143,7 +158,6 @@ new person being recruited to the team, called "Caleb S.". Once he gets me his b
 have his stuff on the site, also. That's all again, and 'till next time, have fun gaming!
 
 -Jeff Verkoeyen (Site Developer and Game uploader)
-
 
 # License
 
